@@ -1,8 +1,6 @@
-# CS 583 Data Mining and Text Mining - Project 1 : MS-GSP.
+## MS-GSP Algorithm
 
-## Python implemetation of the multiple support generalized sequential pattern mining algorithm.
-
-### Project Members : Akash Edacheril Johny (UIN : 650518338) and Sriram Veturi (UIN : 651427659)
+### Python implemetation of the multiple support generalized sequential pattern mining algorithm.
 
 The dataset files should be stored in the data/input folder. It should contain the 'data.txt' and 'parameters.txt' files.
 The python file 'final.py' draws the input datasets from the above mentioned folders.
