@@ -1,6 +1,6 @@
 ## MS-GSP Algorithm
 
-### Python implemetation of the multiple support generalized sequential pattern mining algorithm.
+### Tried to implement the multiple support generalized sequential pattern mining algorithm.
 
 The dataset files should be stored in the data/input folder. It should contain the 'data.txt' and 'parameters.txt' files.
 The python file 'final.py' draws the input datasets from the above mentioned folders.
